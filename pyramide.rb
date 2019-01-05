@@ -8,4 +8,3 @@ puts "Voici la pyramide :"
 i.times do
 	puts b * (i -= 1) + "#{a += "#"}"
 end
-
